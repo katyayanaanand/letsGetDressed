@@ -1,0 +1,11 @@
+/Users/katyayanaanand/Documents/letsGetDressed/backend/src/main/java/com/letsgetdressed/LetsGetDressedApplication.java
+/Users/katyayanaanand/Documents/letsGetDressed/backend/src/main/java/com/letsgetdressed/controller/SuggestionController.java
+/Users/katyayanaanand/Documents/letsGetDressed/backend/src/main/java/com/letsgetdressed/controller/WardrobeController.java
+/Users/katyayanaanand/Documents/letsGetDressed/backend/src/main/java/com/letsgetdressed/model/OutfitSuggestionRequest.java
+/Users/katyayanaanand/Documents/letsGetDressed/backend/src/main/java/com/letsgetdressed/model/OutfitSuggestionResponse.java
+/Users/katyayanaanand/Documents/letsGetDressed/backend/src/main/java/com/letsgetdressed/model/WardrobeItem.java
+/Users/katyayanaanand/Documents/letsGetDressed/backend/src/main/java/com/letsgetdressed/repository/WardrobeItemRepository.java
+/Users/katyayanaanand/Documents/letsGetDressed/backend/src/main/java/com/letsgetdressed/service/EmbeddingService.java
+/Users/katyayanaanand/Documents/letsGetDressed/backend/src/main/java/com/letsgetdressed/service/OutfitSuggestionService.java
+/Users/katyayanaanand/Documents/letsGetDressed/backend/src/main/java/com/letsgetdressed/service/PineconeService.java
+/Users/katyayanaanand/Documents/letsGetDressed/backend/src/main/java/com/letsgetdressed/service/WardrobeService.java

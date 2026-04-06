@@ -1,0 +1,11 @@
+com/letsgetdressed/controller/SuggestionController.class
+com/letsgetdressed/model/OutfitSuggestionResponse.class
+com/letsgetdressed/service/WardrobeService.class
+com/letsgetdressed/LetsGetDressedApplication.class
+com/letsgetdressed/model/OutfitSuggestionRequest.class
+com/letsgetdressed/model/WardrobeItem.class
+com/letsgetdressed/service/OutfitSuggestionService.class
+com/letsgetdressed/service/EmbeddingService.class
+com/letsgetdressed/service/PineconeService.class
+com/letsgetdressed/controller/WardrobeController.class
+com/letsgetdressed/repository/WardrobeItemRepository.class

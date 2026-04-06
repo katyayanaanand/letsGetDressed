@@ -1,0 +1,39 @@
+spring:
+  application:
+    name: letsgetdressed-backend
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.H2Dialect
+    show-sql: false
+    open-in-view: false
+  datasource:
+    url: jdbc:h2:mem:letsgetdressed
+    username: sa
+    password: 
+    driver-class-name: org.h2.Driver
+  h2:
+    console:
+      enabled: true
+
+server:
+  port: 8080
+
+# Vector DB Configuration (Pinecone)
+pinecone:
+  api-key: ${PINECONE_API_KEY:your-api-key-here}
+  index-name: wardrobe-items
+  environment: us-east1-gcp
+
+# OpenAI Configuration for Embeddings
+openai:
+  api-key: ${OPENAI_API_KEY:your-api-key-here}
+  model: text-embedding-3-small
+
+logging:
+  level:
+    com.letsgetdressed: DEBUG
+    org.springframework.web: INFO
+    org.hibernate: INFO
