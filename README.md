@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LetsGetDressed
 
 LetsGetDressed is a private wardrobe assistant for personal use on iPhone and Mac. It is intended for local or private deployment only and is not designed for App Store hosting or public cloud use.
@@ -137,4 +137,3 @@ The shared API contract is documented in:
 That document defines the expected request and response JSON for wardrobe items and outfit suggestions, including the least-space image metadata fields.
 =======
 # letsGetDressed
->>>>>>> 7dc3f40d75eed6eed9a6a4c5e6cc49d24319c08c
